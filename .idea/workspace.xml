@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e0640f-68d1-4505-972b-7c51a1b92ec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/migrations/0003_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestoon/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bestoon/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +36,13 @@
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -113,6 +124,7 @@
       <workItem from="1596269321281" duration="1198000" />
       <workItem from="1596270665143" duration="1476000" />
       <workItem from="1596276924458" duration="2419000" />
+      <workItem from="1596285309475" duration="2514000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596270835993</created>
@@ -147,6 +159,10 @@
       <screen x="0" y="0" width="1600" height="868" />
     </state>
     <state x="496" y="36" width="598" height="788" key="#Bestoon/0.0.1600.868@0.0.1600.868" timestamp="1596269570337" />
+    <state x="395" y="94" width="800" height="672" key="#Notifications" timestamp="1596285327991">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="395" y="94" width="800" height="672" key="#Notifications/0.0.1600.868@0.0.1600.868" timestamp="1596285327991" />
     <state x="395" y="94" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596270752296">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
