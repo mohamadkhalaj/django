@@ -1,8 +1,9 @@
 db.sqlite3
+AutoExpense.sh
+
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 

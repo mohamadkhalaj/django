@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e0640f-68d1-4505-972b-7c51a1b92ec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/migrations/0003_token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoExpense.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bestoon/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bestoon/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +119,7 @@
       <workItem from="1596269321281" duration="1198000" />
       <workItem from="1596270665143" duration="1476000" />
       <workItem from="1596276924458" duration="2419000" />
-      <workItem from="1596285309475" duration="2514000" />
+      <workItem from="1596285309475" duration="3174000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596270835993</created>
