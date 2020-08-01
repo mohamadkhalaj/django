@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52e0640f-68d1-4505-972b-7c51a1b92ec5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1596276898" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fUOelpybxyB94wuCuM2B498NJl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Bestoon" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Bestoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Bestoon.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52e0640f-68d1-4505-972b-7c51a1b92ec5" name="Default Changelist" comment="" />
+      <created>1596269304351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596269304351</updated>
+      <workItem from="1596269321281" duration="1198000" />
+      <workItem from="1596270665143" duration="1476000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1596270835993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596270835993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="36" width="598" height="788" key="#Bestoon" timestamp="1596269570337">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="496" y="36" width="598" height="788" key="#Bestoon/0.0.1600.868@0.0.1600.868" timestamp="1596269570337" />
+    <state x="395" y="94" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596270752296">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="395" y="94" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.868@0.0.1600.868" timestamp="1596270752296" />
+    <state x="391" y="0" width="807" height="863" key="CommitChangelistDialog2" timestamp="1596270835053">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="391" y="0" width="807" height="863" key="CommitChangelistDialog2/0.0.1600.868@0.0.1600.868" timestamp="1596270835053" />
+    <state x="572" y="185" width="424" height="479" key="FileChooserDialogImpl" timestamp="1596269898081">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="572" y="185" width="424" height="479" key="FileChooserDialogImpl/0.0.1600.868@0.0.1600.868" timestamp="1596269898081" />
+    <state width="1558" height="197" key="GridCell.Tab.0.bottom" timestamp="1596276915140">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="1558" height="197" key="GridCell.Tab.0.bottom/0.0.1600.868@0.0.1600.868" timestamp="1596276915140" />
+    <state width="1558" height="197" key="GridCell.Tab.0.center" timestamp="1596276915139">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="1558" height="197" key="GridCell.Tab.0.center/0.0.1600.868@0.0.1600.868" timestamp="1596276915139" />
+    <state width="1558" height="197" key="GridCell.Tab.0.left" timestamp="1596276915138">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="1558" height="197" key="GridCell.Tab.0.left/0.0.1600.868@0.0.1600.868" timestamp="1596276915138" />
+    <state width="1558" height="197" key="GridCell.Tab.0.right" timestamp="1596276915139">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="1558" height="197" key="GridCell.Tab.0.right/0.0.1600.868@0.0.1600.868" timestamp="1596276915139" />
+    <state width="227" height="539" key="HiddenNamespacesPopup" timestamp="1596269526923">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="227" height="539" key="HiddenNamespacesPopup/0.0.1600.868@0.0.1600.868" timestamp="1596269526923" />
+    <state x="304" y="68" key="SettingsEditor" timestamp="1596270545508">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="304" y="68" key="SettingsEditor/0.0.1600.868@0.0.1600.868" timestamp="1596270545508" />
+  </component>
+</project>
