@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e0640f-68d1-4505-972b-7c51a1b92ec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Bestoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bestoon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +115,7 @@
       <updated>1596269304351</updated>
       <workItem from="1596269321281" duration="1198000" />
       <workItem from="1596270665143" duration="1476000" />
+      <workItem from="1596276924458" duration="1829000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596270835993</created>
@@ -156,22 +162,22 @@
       <screen x="0" y="0" width="1600" height="868" />
     </state>
     <state x="572" y="185" width="424" height="479" key="FileChooserDialogImpl/0.0.1600.868@0.0.1600.868" timestamp="1596269898081" />
-    <state width="1558" height="197" key="GridCell.Tab.0.bottom" timestamp="1596276915140">
+    <state width="1558" height="197" key="GridCell.Tab.0.bottom" timestamp="1596278762473">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state width="1558" height="197" key="GridCell.Tab.0.bottom/0.0.1600.868@0.0.1600.868" timestamp="1596276915140" />
-    <state width="1558" height="197" key="GridCell.Tab.0.center" timestamp="1596276915139">
+    <state width="1558" height="197" key="GridCell.Tab.0.bottom/0.0.1600.868@0.0.1600.868" timestamp="1596278762473" />
+    <state width="1558" height="197" key="GridCell.Tab.0.center" timestamp="1596278762473">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state width="1558" height="197" key="GridCell.Tab.0.center/0.0.1600.868@0.0.1600.868" timestamp="1596276915139" />
-    <state width="1558" height="197" key="GridCell.Tab.0.left" timestamp="1596276915138">
+    <state width="1558" height="197" key="GridCell.Tab.0.center/0.0.1600.868@0.0.1600.868" timestamp="1596278762473" />
+    <state width="1558" height="197" key="GridCell.Tab.0.left" timestamp="1596278762472">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state width="1558" height="197" key="GridCell.Tab.0.left/0.0.1600.868@0.0.1600.868" timestamp="1596276915138" />
-    <state width="1558" height="197" key="GridCell.Tab.0.right" timestamp="1596276915139">
+    <state width="1558" height="197" key="GridCell.Tab.0.left/0.0.1600.868@0.0.1600.868" timestamp="1596278762472" />
+    <state width="1558" height="197" key="GridCell.Tab.0.right" timestamp="1596278762473">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state width="1558" height="197" key="GridCell.Tab.0.right/0.0.1600.868@0.0.1600.868" timestamp="1596276915139" />
+    <state width="1558" height="197" key="GridCell.Tab.0.right/0.0.1600.868@0.0.1600.868" timestamp="1596278762473" />
     <state width="227" height="539" key="HiddenNamespacesPopup" timestamp="1596269526923">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
