@@ -1,6 +1,6 @@
 db.sqlite3
 AutoExpense.sh
-
+AutoIncome.sh
 __pycache__/
 *.py[cod]
 *$py.class

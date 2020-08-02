@@ -10,6 +10,8 @@ from django.views.decorators.csrf import csrf_exempt
 
 @csrf_exempt
 def submit_expense(request):
+    """submit expense"""
+
     this_token = request.POST['token']
     this_user = User.objects.filter(token__token=this_token).get()
 
@@ -19,6 +21,24 @@ def submit_expense(request):
         date = request.POST['date']
 
     Expense.objects.create(user=this_user, amount=request.POST['amount'], date=date, text=request.POST['text'])
+    return JsonResponse({
+        "status": 200
+    }, encoder=JSONEncoder)
+
+
+@csrf_exempt
+def submit_income(request):
+    """submit income"""
+
+    this_token = request.POST['token']
+    this_user = User.objects.filter(token__token=this_token).get()
+
+    if 'date' not in request.POST:
+        date = datetime.datetime.now()
+    else:
+        date = request.POST['date']
+
+    Income.objects.create(user=this_user, amount=request.POST['amount'], date=date, text=request.POST['text'])
     return JsonResponse({
         "status": 200
     }, encoder=JSONEncoder)
