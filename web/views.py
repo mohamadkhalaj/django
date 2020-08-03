@@ -1,4 +1,6 @@
 from django.contrib.auth.hashers import make_password, check_password
+from django.db.models import Count, Sum
+
 from django.shortcuts import render, get_object_or_404
 from django.http import JsonResponse
 from json import JSONEncoder
@@ -11,8 +13,19 @@ from django.views.decorators.csrf import csrf_exempt
 from .utils import grecaptcha_verify, RateLimited
 
 
+
 # Create your views here.
 
+@csrf_exempt
+def generalstat(request):
+    this_token = request.POST['token']
+    this_user = User.objects.get(token__token=this_token)
+    incomes = Income.objects.filter(user = this_user).aggregate(Count('amount'), Sum('amount'))
+    expenses = Expense.objects.filter(user=this_user).aggregate(Count('amount'), Sum('amount'))
+    context = {}
+    context['expenses'] = expenses
+    context['incomes'] = incomes
+    return JsonResponse(context, encoder=JSONEncoder)
 
 @csrf_exempt
 def index(request):
