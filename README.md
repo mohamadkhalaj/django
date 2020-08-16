@@ -1,2 +1,2 @@
 # django
-Bestoon project
+My first django project
